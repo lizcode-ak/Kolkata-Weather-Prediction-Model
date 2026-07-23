@@ -205,9 +205,6 @@ This weather data represents historical observations for Kolkata, India. Proper 
 
 This project is open-source and available for educational and research purposes.
 
-## Contact and Support
-
-For issues, suggestions, or contributions, please refer to the project repository documentation.
 
 ---
 
